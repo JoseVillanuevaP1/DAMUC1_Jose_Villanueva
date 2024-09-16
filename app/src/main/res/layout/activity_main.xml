@@ -10,11 +10,15 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="84dp"
-        android:layout_marginTop="28dp"
+        android:layout_width="403dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:background="#265087"
+        android:foregroundTint="#FAF8F8"
         android:text="CREACION DE CORREO ELECTRÓNICO"
+        android:textAlignment="center"
+        android:textColor="#F6F3F3"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
